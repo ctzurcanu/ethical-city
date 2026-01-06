@@ -8,4 +8,4 @@ Here are some ideas that conform to my ethos for entities that are alike cities:
 
 ## For the EU:
 
-- a flag for the New Europe
+- a [flag for the New Europe](EU_flag.md)
